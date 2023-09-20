@@ -1,0 +1,4 @@
+Írjunk programot a következő feladatokra (specifikáció és algoritmus a githubon van a tervezés.pdf-ben. Határidő: következő gyakorlat eleje (tehát 09.26. 16:15). A forráskódot (vagyis a .cs fájlt) küldjétek el nekem Teams üzenetben.
+
+1. Adjuk meg két pozitív egész szám LKKT-jét
+2. Legyen x és y két pozitív egész. Adjuk meg x-nek y-nal vett osztási maradékát úgy, hogy csak kivonást használhatunk
