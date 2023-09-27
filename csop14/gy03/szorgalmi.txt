@@ -1,0 +1,25 @@
+Határidő: következő gyakorlat eleje, a kódokat és a specifikációt küldjétek el nekem Teams üzenetben.
+
+1. Adott egy számtani sorozat első tagja és állandó különbsége. Határozd meg a sorozat n. tagját. Írj specifikációt erre, majd kódold le (algoritmus most nem kell).
+2. Csak kódolni: ugyanaz, mint az első feladat, annyi különbséggel, hogy a felhasználó többször is megkérdezheti, hogy melyik a k. tag. Amíg 1 és 100 között ad meg egy i számot, addig mondd meg neki a sorozat i. tagját, ha 0-t ír, akkor fejezd be a programot. Ha 0-nál kisebb vagy 100-nál nagyobb számot ír be, akkor jelezd a hibát, és kérd újra a számot.
+példa a működésre:
+
+Add meg a sorozat első tagját és különbségét:
+3 -8
+Add meg, hogy hanyadik tagot szeretnéd megtudni (1 és 100 közötti egész), vagy írj 0-t, ha szeretnél kilépni:
+1
+A(z) 1. tag: 3
+Add meg, hogy hanyadik tagot szeretnéd megtudni (1 és 100 közötti egész), vagy írj 0-t, ha szeretnél kilépni:
+4
+A(z) 4. tag: -21
+Add meg, hogy hanyadik tagot szeretnéd megtudni (1 és 100 közötti egész), vagy írj 0-t, ha szeretnél kilépni:
+-1
+Nem jó, kérlek add meg újra.
+Add meg, hogy hanyadik tagot szeretnéd megtudni (1 és 100 közötti egész), vagy írj 0-t, ha szeretnél kilépni:
+109
+Nem jó, kérlek add meg újra.
+Add meg, hogy hanyadik tagot szeretnéd megtudni (1 és 100 közötti egész), vagy írj 0-t, ha szeretnél kilépni:
+0
+Viszlát!
+
+3. Ugyanaz, mint a 2-es feladat, csak nem használhatsz szorzást a megoldás során. Hogyan oldod meg a feladatot anélkül, hogy mindig újraszámolod az értékeket?

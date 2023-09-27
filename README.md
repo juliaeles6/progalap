@@ -6,3 +6,4 @@ C# dokumentáció: https://learn.microsoft.com/en-us/dotnet/csharp/; magyarul: h
 
 1. *gyakorlat tematika:* egyszerűbb specifikáció és algoritmus, a C# alapjai (beolvasás, kiírás, elágazások)
 2. *gyakorlat tematika:* ciklusok (előltesztelős és lépegetős) és ezek C# megfelelői
+3. *gyakorlat tematika:* több tömb és rekord
