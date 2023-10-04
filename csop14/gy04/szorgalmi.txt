@@ -1,0 +1,7 @@
+Szorgalmi feladatok a Mesteren lesznek. Írjatok specifikációt, visszavezetést, majd kódoljátok le (csak együtt fogom elfogadni őket)
+A feladatok:
+	Kezdő / Programozási tételek: sorozatszámítás / 9
+	Kezdő / Programozási tételek: megszámolás / 5
+
+Ha nem találjátok meg / bármi baj van az oldallal, akkor jelezzétek!
+
