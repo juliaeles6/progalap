@@ -12,3 +12,4 @@ Mester: http://mester.inf.elte.hu
 2. *gyakorlat tematika:* ciklusok (előltesztelős és lépegetős) és ezek C# megfelelői
 3. *gyakorlat tematika:* több tömb és rekord
 4. *gyakorlat tematika:* Mester és Bíró megismerére, összegzés, megszámolás
+5. *gyakorlat tematika:* maximumkiválasztás, eldöntés, keresés, függvények
