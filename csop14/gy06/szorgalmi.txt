@@ -1,0 +1,4 @@
+Írj specifikációt, visszavezetési táblázatot a következő Mesteres feladatokra, majd kódold is le őket:
+1. Mester / Programozási tételek: kiválogatás / 16.
+2. Mester / Programozási tételek: kiválogatás / 34.
+3. Mester / Programozási tételek: másolás / 3.

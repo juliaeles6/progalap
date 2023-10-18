@@ -13,3 +13,7 @@ Mester: http://mester.inf.elte.hu
 3. *gyakorlat tematika:* több tömb és rekord
 4. *gyakorlat tematika:* Mester és Bíró megismerére, összegzés, megszámolás
 5. *gyakorlat tematika:* maximumkiválasztás, eldöntés, keresés, függvények
+6. *gyakorlat tematika:* kiválasztás, másolás, List
+
+*Csoportos algoritmus ZH anyaga:* programozási tételek: összegzés, megszámolás, maximumkiválasztás, eldöntés, keresés, másolás, kiválasztás visszavezetése, algoritmus írása
+
