@@ -1,0 +1,5 @@
+Szokásos módon (speci + visszavezetés + kód) oldd meg a következő feladatokat Mesterről:
+
+Mester / Középhaladó / Madármegfigyelés / 1 és 2
+
+A sztori és a bemenet ugyanaz mindkét feladatban, csak mást kell kiszámolni. A specik meg a visszavezetések ezért mehetnek egyben a két feladathoz. Teszteljétek Mesteren is a feladatot :)
