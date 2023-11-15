@@ -1,0 +1,5 @@
+Szokásos módon (speci + visszavezetés + kód) oldd meg a következő feladatokat Mesterről:
+
+Mester / Középhaladó / Időjárás / 24
+Mester / Középhaladó / Madármegfigyelés / 16
+

@@ -16,6 +16,7 @@ Mester: http://mester.inf.elte.hu
 6. *gyakorlat tematika:* kiválasztás, másolás, List
 7. *gyakorlat tematika:* csoportos algoritmus ZH, feltételes összegzés
 8. *gyakorlat tematika:* összetett programozási minták, mátrixok C#-ban
+9. *gyakorlat tematika:* összetett programozási minták, pici LINQ
 
 *Csoportos algoritmus ZH anyaga:* programozási tételek: összegzés, megszámolás, maximumkiválasztás, eldöntés, keresés, másolás, kiválasztás visszavezetése, algoritmus írása
 
