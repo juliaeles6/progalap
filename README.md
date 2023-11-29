@@ -17,8 +17,16 @@ Mester: http://mester.inf.elte.hu
 7. *gyakorlat tematika:* csoportos algoritmus ZH, feltételes összegzés
 8. *gyakorlat tematika:* összetett programozási minták, mátrixok C#-ban
 9. *gyakorlat tematika:* összetett programozási minták, pici LINQ
+10. *gyakorlat tematika:* csoportos kódolós ZH, összetett programozási minták
+11. *gyakorlat tematika:* gyakorlás az évfolyam ZH-kra (algoritmus és kód egyaránt)
 
 *Csoportos algoritmus ZH anyaga:* programozási tételek: összegzés, megszámolás, maximumkiválasztás, eldöntés, keresés, másolás, kiválasztás visszavezetése, algoritmus írása
 
 *Csoportos kódolós ZH anyaga:* adott feladat lekódolása a megadott specifikáció, visszavezetési táblázat és algoritmus alapján, bemenet ellenőrzéssel + tanult programozási minták kódolása. Használható papír alapú összefoglaló.
+
+*Évfolyam algoritmus ZH anyaga:* feladatok megoldása programozási tételekkel, specifikáció + visszavezetés + algoritmus fomában. 
+
+*Évfolyam kódolós ZH anyaga:* Bírón kapott 4 alpontos feladat megoldása programozási minták használatával kódban. Használható papír alapú összefoglaló.
+
+
 
