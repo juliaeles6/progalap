@@ -19,6 +19,16 @@ Mester: http://mester.inf.elte.hu
 9. *gyakorlat tematika:* összetett programozási minták, pici LINQ
 10. *gyakorlat tematika:* csoportos kódolós ZH, összetett programozási minták
 11. *gyakorlat tematika:* gyakorlás az évfolyam ZH-kra (algoritmus és kód egyaránt)
+12. *gyakorlat tematika:* tudnivalók a komplex beadandóról és algoritmusminták megvalósítása függvényként (plusz anyag)
+
+**Komplex beadandó tudnivalók:**
+
+Még nincs fennt mintadokumentáció az oldalon, így egyelőre felrakom ide Githubra az én tavalyi dokumentációmat. Lehet fog változni (vannak benne értelmetlennek tűnő részek, de ilyen volt a minta), de a következő dolgok szerintem mindenképpen kelleni fognak:
+1. a feladat ismertetése (mi a feladat, milyen a helyes bemenet, mit kell kiszámolni)
+2. a feladat megoldása (specifikáció, visszavezetés, algoritmus)
+3. a kód rövid magyarázata (melyik része mit csinál, pl. ha írsz egy f függvényt, akkor egy mondatban írd le, hogy mit csinál az a függvény)
+4. maga a kód (amit Bíróra is feltöltesz)
+5. tesztesetek: érvényes (érdemes a szélső esetekre gondolni) és érvénytelen tesztesetek, illetve hogy ezekre milyen eredményt ad a program
 
 *Csoportos algoritmus ZH anyaga:* programozási tételek: összegzés, megszámolás, maximumkiválasztás, eldöntés, keresés, másolás, kiválasztás visszavezetése, algoritmus írása
 
@@ -27,6 +37,3 @@ Mester: http://mester.inf.elte.hu
 *Évfolyam algoritmus ZH anyaga:* feladatok megoldása programozási tételekkel, specifikáció + visszavezetés + algoritmus fomában. 
 
 *Évfolyam kódolós ZH anyaga:* Bírón kapott 4 alpontos feladat megoldása programozási minták használatával kódban. Használható papír alapú összefoglaló.
-
-
-

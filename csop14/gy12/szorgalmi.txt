@@ -1,0 +1,1 @@
+A Mintak.cs fájlban a három függvényhez írtam egy "Továbbgondolni" részt, azok lesznek a szorgalmik. Ennek határideje a komplex beadandó végső határideje lesz, vagyis 2024.01.14. 
