@@ -28,12 +28,12 @@ namespace F02 {
             }
 
             bemenet = Console.ReadLine(); 
-            while(!(double.TryParse(bemenet, out a) && a > 0)) { 
+            while(!(double.TryParse(bemenet, out b) && b > 0)) { 
                 bemenet = Console.ReadLine(); 
             }
 
             bemenet = Console.ReadLine(); 
-            while(!(double.TryParse(bemenet, out a) && a > 0)) { 
+            while(!(double.TryParse(bemenet, out c) && c > 0)) { 
                 bemenet = Console.ReadLine();
             }
 
@@ -57,12 +57,12 @@ namespace F02 {
             int x, y;
             
             bemenet = Console.ReadLine();
-            while(!(int.TryParse(bemenet, out x) && x > 0)) { // x > 0 nincs explicit benne az előfeltételben, de mivel a C#-ban nincs külön természetes szám típus, ezért ilyenkor ezt is le szoktuk ellenőrizni 
+            while(!(int.TryParse(bemenet, out x) && x >= 0)) { // x >= 0 nincs explicit benne az előfeltételben, de mivel a C#-ban nincs külön természetes szám típus, ezért ilyenkor ezt is le szoktuk ellenőrizni 
                 bemenet = Console.ReadLine();
             }
 
             bement = Console.ReadLine();
-            while(!(int.TryParse(bemenet, out y) && y >= 0)) {
+            while(!(int.TryParse(bemenet, out y) && y > 0)) {
                 bemenet = Console.ReadLine();
             }
 
